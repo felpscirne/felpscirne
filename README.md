@@ -3,6 +3,6 @@
 
 Um pouco sobre mim:
 
-	● 🎓 Student at Analise e Desenvolvimento de Sistemas
+	● 🎓 Systems Analysis and Development Student at IFRS - Campus Rio Grande
 	● 💻 Studying Java | JavaScript | Node.JS | Python | HTML | CSS
 
