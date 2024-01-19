@@ -3,6 +3,6 @@
 
 Um pouco sobre mim:
 
-● 🎓 Student at Analise e Desenvolvimento de Sistemas
-● 💻 Studying Java | Node.JS | Python | HTML | CSS
+	● 🎓 Student at Analise e Desenvolvimento de Sistemas
+	● 💻 Studying Java | Node.JS | Python | HTML | CSS
 
