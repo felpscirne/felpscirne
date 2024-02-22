@@ -1,7 +1,7 @@
-### Hi, I'm Felipe Cirne. Nice to see you here ✋🏽
+## Hi, I'm Felipe Cirne. Nice to see you here ✋🏽
 <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" alt="My Project GIF" width="480" height="259">
 
-A little about me:
+### A little about me:
 
 ●I'm 24 <br>
 ●Currently I'm a Computer Technician specialized in repair of electronic boards, in the process of change to software development. <br>
