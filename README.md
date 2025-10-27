@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | Former Lead Computer Technician
 
-I am a passionate full-stack developer currently in my **fourth of six semesters** of Systems Analysis and Development at IFRS - Campus Rio Grande. My journey into software development is built on a solid foundation of 5 years of experience as a Lead Computer Technician, where I honed my skills in problem-solving, leadership, and technical support. I thrive on building robust and user-friendly applications and am always eager to learn new technologies.
+I am a passionate full-stack developer currently in my **fifth of six semesters** of Systems Analysis and Development at IFRS - Campus Rio Grande. My journey into software development is built on a solid foundation of 5 years of experience as a Lead Computer Technician, where I honed my skills in problem-solving, leadership, and technical support. I thrive on building robust and user-friendly applications and am always eager to learn new technologies.
 
 ---
 
