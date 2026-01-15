@@ -54,10 +54,6 @@ I am a passionate full-stack developer currently in my **fifth of six semesters*
   
   <br/><br/>
 
-  <a href="https://github.com/felpscirne">
-    <img src="https://raw.githubusercontent.com/felpscirne/felpscirne/output/github-contribution-grid-snake-dark.svg" />
-  </a>
-</div>
 
 ---
 
