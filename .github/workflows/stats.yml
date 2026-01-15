@@ -1,22 +1,29 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # Roda a cada 24h
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Permite rodar manualmente
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-summary-cards
+    
+    # 1. AQUI: Damos permissão explícita para o robô escrever
     permissions:
       contents: write
-      
+
     steps:
-      - uses: actions/checkout@v2
-      
+      # 2. AQUI: Usamos sua chave 'stats' já no checkout para autenticar o Git desde o início
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.stats }}
+          fetch-depth: 0
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
+          # 3. Mantemos a chave aqui também
           GITHUB_TOKEN: ${{ secrets.stats }}
         with:
           USERNAME: ${{ github.repository_owner }}
