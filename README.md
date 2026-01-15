@@ -49,7 +49,12 @@ I am a passionate full-stack developer currently in my **fifth of six semesters*
 <div align="center">
   <a href="https://github.com/felpscirne">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpscirne&layout=compact&langs_count=7&theme=dracula&bg_color=00000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felpscirne&theme=dracula&bg_color=00000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  </a>
+  
+  <br/><br/>
+
+  <a href="https://github.com/felpscirne">
+    <img src="https://raw.githubusercontent.com/felpscirne/felpscirne/output/github-contribution-grid-snake-dark.svg" />
   </a>
 </div>
 
