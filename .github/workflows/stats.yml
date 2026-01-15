@@ -10,12 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-summary-cards
     
-    # 1. AQUI: Damos permissão explícita para o robô escrever
+    # Permissão explícita de escrita para o container
     permissions:
       contents: write
 
     steps:
-      # 2. AQUI: Usamos sua chave 'stats' já no checkout para autenticar o Git desde o início
+      # MUDANÇA CRUCIAL AQUI:
+      # Atualizado para v3 e ADICIONADO o token na entrada.
+      # Isso garante que o git push use sua credencial forte.
       - uses: actions/checkout@v3
         with:
           token: ${{ secrets.stats }}
@@ -23,7 +25,7 @@ jobs:
 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          # 3. Mantemos a chave aqui também
+          # Mantemos o token aqui também para o script gerar os dados
           GITHUB_TOKEN: ${{ secrets.stats }}
         with:
           USERNAME: ${{ github.repository_owner }}
